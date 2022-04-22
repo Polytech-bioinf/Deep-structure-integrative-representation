@@ -1,6 +1,6 @@
 import torch.nn as nn
 import torch
-import tensorflow as tf
+
 
 class Networks(nn.Module):
     def __init__(self):
